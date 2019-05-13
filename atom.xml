@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-29T08:07:04.203Z</updated>
+  <updated>2019-01-29T08:31:20.898Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/01/28/Reasons/"/>
     <id>http://yoursite.com/2019/01/28/Reasons/</id>
     <published>2019-01-27T16:00:00.000Z</published>
-    <updated>2019-01-29T08:07:04.203Z</updated>
+    <updated>2019-01-29T08:31:20.898Z</updated>
     
-    <content type="html"><![CDATA[<p>It seems that all the programmers around me have their own blogs, while I am not<br>the kind of people who want to share one’s own life with strangers. I can write down my<br>sadness and happiness in my journal. The technical knowledge is kept neatly in my<br>Onenote (I won’t use Evernote until it can highlight the code block). </p><p>But today when I was reading the article <a href="http://www.ruanyifeng.com/blog/2019/01/prolog.html" target="_blank" rel="noopener">prolog</a>, it hit me that it’s<br>time to have my own blog which shares interesting things. It is not a place to<br>show how learned I am, but where I can be heared by the world. </p><p>I am just like a child who finds the most wonderful shells on the beach and wants<br>to show it to the whole world. </p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">"Hello World. Welcome to see my beautiful shells."</span>)</span><br><span class="line">Hello World. Welcome to see my beautifal shells.</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>It seems that all the programmers around me have their own blogs, while I am not<br>the kind of people who want to share one’s own life with strangers. I can write down my<br>sadness and happiness in my journal. The technical knowledge is kept neatly in my<br>Onenote (I won’t use Evernote until it can highlight the code block). </p><p>But today when I was reading the article <a href="http://www.ruanyifeng.com/blog/2019/01/prolog.html" target="_blank" rel="noopener">prolog</a>, it hit me that it’s<br>time to have my own blog which shares interesting things. It is not a place to<br>show how learned I am, but where I can be heared by the world. </p><p>I am just like a child who finds the most wonderful shells on the beach and wants<br>to show it to the whole world. </p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&gt;&gt;&gt; </span>print(<span class="string">"Hello World. Welcome to see my beautiful shells."</span>)</span><br><span class="line">Hello World. Welcome to see my beautiful shells.</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
